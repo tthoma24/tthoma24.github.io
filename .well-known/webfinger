@@ -1,0 +1,9 @@
+{
+  "subject": "acct:tthoma24@tthoma24.me",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://cognito-idp.us-east-1.amazonaws.com/us-east-1_ZZp0ifQ8w"
+    }
+  ]
+}
